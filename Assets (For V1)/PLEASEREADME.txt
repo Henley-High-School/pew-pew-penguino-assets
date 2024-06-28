@@ -4,6 +4,8 @@ We want you to use these assets will glory but please remember that  this reposi
 
 These assets have been made by the students at Henley High School who want YOU to see what students can make.
 
+These files in the directory contain things like buildings & structure, animals & characters and things like sound files.
+
 Thanks,
 Benjamin Graetz/BennyGaming635
 Repository Creator & HHS Student
